@@ -10,8 +10,8 @@ Algoritmo sin_titulo
 	totalBruto <- 0
 	totalEPS <- 0
 	totalPension <- 0
-	mayorSueldo <- -99999
-	menorSueldo <- 99999
+	mayorSueldo <- 0
+	menorSueldo <- 0
 	
 	Escribir "ingrese la cantidad de Empleados"
 	leer N
